@@ -1,8 +1,6 @@
--- Copyright (C) 2007 Jari Aalto; Licenced under GPL v2 or later
-
 To: cygwin-announce@cygwin.com
 Subject: Updated: package N.N
-Subject: New package: python-paramiko 1.5.2-1 -- SSH2 connection library for Python (library)
+Subject: New package: python-paramiko 1.7.4-1 -- SSH2 connection library for Python (library)
 
 PACKAGE DESCRIPTION
 ===================
@@ -18,7 +16,7 @@ are supported. SFTP client and server mode are both supported too.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-None
+See http://www.lag.net/paramiko
 
 INSTALL OR UPGRADE NOTES
 ========================
