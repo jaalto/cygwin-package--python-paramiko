@@ -16,8 +16,8 @@ are supported. SFTP client and server mode are both supported too.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-Built for Python 2.6
-See http://www.lag.net/paramiko
+- Built for Python 2.6
+- See "news" at http://www.lag.net/paramiko
 
 INSTALL OR UPGRADE NOTES
 ========================
