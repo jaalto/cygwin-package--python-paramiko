@@ -1,7 +1,7 @@
 python-paramiko
 ------------------------------------------
 
-SSH2 connection library for Python (library)
+Python library for SSH2 connections
 
 This is a library for making SSH2 connections (client or server).
 Emphasis is on using SSH2 as an alternative to SSL for making secure
