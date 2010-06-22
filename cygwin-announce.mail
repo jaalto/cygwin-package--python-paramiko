@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: python-paramiko 1.7.6-1 -- SSH2 connection library for Python (library)
+Subject: Updated: python-paramiko 1.7.6-2 -- SSH2 connection library for Python (library)
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -16,6 +16,7 @@ are supported. SFTP client and server mode are both supported too.
 CHANGES SINCE LAST RELEASE
 ==========================
 
+Built for Python 2.6
 See http://www.lag.net/paramiko
 
 INSTALL OR UPGRADE NOTES

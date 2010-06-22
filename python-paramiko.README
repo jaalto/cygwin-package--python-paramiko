@@ -64,6 +64,9 @@ Files included in the binary distro:
 
 Port Notes:
 
+----- version 1.7.6-2 -----
+- Python 2.6 2010-06-17 Jari Aalto
+
 ----- version 1.7.6-1 -----
 - New upstream release 2010-01-26 Jari Aalto
 
