@@ -45,15 +45,15 @@ Language:
 ------------------------------------
 
 Build instructions:
-  unpack python-paramiko-1.7.7.1-1-src.tar.bz2
+  unpack python-paramiko-1.9.0+20130801+gite06b0f5-1-src.tar.bz2
     if you use setup to install this src package, it will be
     unpacked under /usr/src automatically
   cd /usr/src
   ./python-paramiko*.sh all
 
 This will create:
-  python-paramiko-1.7.7.1-1.tar.bz2
-  python-paramiko-1.7.7.1-1-src.tar.bz2
+  python-paramiko-1.9.0+20130801+gite06b0f5-1.tar.bz2
+  python-paramiko-1.9.0+20130801+gite06b0f5-1-src.tar.bz2
 
 -------------------------------------------
 
@@ -63,6 +63,9 @@ Files included in the binary distro:
 ------------------
 
 Port Notes:
+
+----- version 1.9.0+20130801+gite06b0f5-1 -----
+- New upstream release 2013-09-20 Jari Aalto
 
 ----- version 1.7.7.1-2 -----
 - Python 2.7 2013-01-26 Jari Aalto
