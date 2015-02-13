@@ -45,15 +45,15 @@ Language:
 ------------------------------------
 
 Build instructions:
-  unpack python-paramiko-1.14+20140525+gite811e71-1-src.tar.bz2
+  unpack python-paramiko-1.15.2+20150204+gitbdc60c3-1-src.tar.bz2
     if you use setup to install this src package, it will be
     unpacked under /usr/src automatically
   cd /usr/src
   ./python-paramiko*.sh all
 
 This will create:
-  python-paramiko-1.14+20140525+gite811e71-1.tar.xz
-  python-paramiko-1.14+20140525+gite811e71-1-src.tar.xz
+  python-paramiko-1.15.2+20150204+gitbdc60c3-1.tar.xz
+  python-paramiko-1.15.2+20150204+gitbdc60c3-1-src.tar.xz
 
 -------------------------------------------
 
@@ -63,6 +63,9 @@ Files included in the binary distro:
 ------------------
 
 Port Notes:
+
+----- version 1.15.2+20150204+gitbdc60c3-1 -----
+- New upstream release 2015-02-13 Jari Aalto
 
 ----- version 1.14+20140525+gite811e71-1 -----
 - New upstream release 2014-06-14 Jari Aalto
@@ -93,4 +96,4 @@ Port Notes:
 - Initial release 2007-09-30 Jari Aalto
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2007-2014 Jari Aalto; Licenced under GPL v2 or later
+Copyright (C) 2007-2015 Jari Aalto; Licenced under GPL v2 or later
