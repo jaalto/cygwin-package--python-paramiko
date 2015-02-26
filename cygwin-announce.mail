@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: python-paramiko 1.15.2+20150204+gitbdc60c3-1 -- Python library for SSH2 connections
+Subject: Updated: python-paramiko 1.15.2+20150204+gitbdc60c3-2 -- Python library for SSH2 connections
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -18,6 +18,7 @@ CHANGES SINCE LAST RELEASE
 
 - Built for Python 2.7
 - See Homepage for release information.
+- Cygwin packaging update.
 
 INSTALL OR UPGRADE NOTES
 ========================
