@@ -45,15 +45,15 @@ Language:
 ------------------------------------
 
 Build instructions:
-  unpack python-paramiko-1.15.2+20150204+gitbdc60c3-2-src.tar.bz2
+  unpack python-paramiko-1.15.2+20150921+git7b33770-1-src.tar.bz2
     if you use setup to install this src package, it will be
     unpacked under /usr/src automatically
   cd /usr/src
   ./python-paramiko*.sh all
 
 This will create:
-  python-paramiko-1.15.2+20150204+gitbdc60c3-2.tar.xz
-  python-paramiko-1.15.2+20150204+gitbdc60c3-2-src.tar.xz
+  python-paramiko-1.15.2+20150921+git7b33770-1.tar.xz
+  python-paramiko-1.15.2+20150921+git7b33770-1-src.tar.xz
 
 -------------------------------------------
 
@@ -63,6 +63,9 @@ Files included in the binary distro:
 ------------------
 
 Port Notes:
+
+----- version 1.15.2+20150921+git7b33770-1 -----
+- New upstream release 2015-09-28 Jari Aalto
 
 ----- version 1.15.2+20150204+gitbdc60c3-2 -----
 - New upstream release 2015-02-26 Jari Aalto
